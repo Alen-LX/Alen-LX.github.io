@@ -49,19 +49,20 @@ El objetivo principal de este portafolio es:
 
 ## 📂 Estructura del Proyecto
 
-mi-portafolio/
-├── src/ # Código fuente del proyecto (React)
-│ ├── components/ # Componentes reutilizables
-│ ├── pages/ # Páginas principales
-│ ├── data/ # Información del cuaderno de aprendizaje
-│ ├── styles/ # Estilos CSS
-│ └── assets/ # Imágenes e íconos
-├── public/ # Recursos públicos
-├── dist/ # Build de producción (deploy)
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
+- **mi-portafolio/**
+  - **src/** – Código fuente del proyecto (React)
+    - **components/** – Componentes reutilizables
+    - **pages/** – Páginas principales
+    - **data/** – Información del cuaderno de aprendizaje
+    - **styles/** – Estilos CSS
+    - **assets/** – Imágenes e íconos
+  - **public/** – Recursos públicos
+  - **dist/** – Build de producción (deploy)
+  - **index.html**
+  - **package.json**
+  - **vite.config.js**
+  - **README.md**
+
 
 > ⚠️ Para GitHub Pages solo se publica el contenido de la carpeta `dist`.
 
